@@ -31,19 +31,6 @@ This project gives me practical experience with:
 
 ---
 
-## Project Progress
-
-### Video 1
-Completed the base component.
-
-### Video 2
-Completed the shoulder section.
-
-### Video 3
-Designed the upper arm component.
-
-### Video 4
-Completed the elbow mechanism.
 
 (Progress will be updated as the project continues.)
 
