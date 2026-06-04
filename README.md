@@ -61,7 +61,7 @@ Throughout this project, I am learning:
 
 ## Screenshots
 
-Screenshots of the design process and completed components will be added as the project progresses.
+<img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/7da92f78-6200-4045-a9d6-9dae9ff9bc22" />
 
 ---
 
