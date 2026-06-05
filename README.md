@@ -32,7 +32,7 @@ This project gives me practical experience with:
 ---
 
 
-(Progress will be updated as the project continues.)
+
 
 ---
 
